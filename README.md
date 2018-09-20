@@ -2,4 +2,4 @@
 
 Stuff for Brian to do in Linux.
 
-* [TOIlet](./toilet) - display large colourful characters
+* [TOIlet](./toilet.md) - display large colourful characters
