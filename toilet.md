@@ -177,6 +177,10 @@ To fix them use `chmod` with the `-x` switch, you can run `man` on `chmod` to le
 
 	chmod -x figlet-fonts-master/*
 
+Change the permissions of the figlet share.
+
+	sudo chown -R brian.brian /usr/share/figlet
+
 ### Copy the Fonts
 
 In order to get toilet to see the fonts, we need to put them into the `/usr/share/figlet` path.
