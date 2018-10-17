@@ -227,3 +227,10 @@ You'll see a bunch of files which end with `flf` or `flc` you can use any of the
 	toilet -f bigmono12 Brian
 	toilet -f eftifont Brian
 
+### Further Reading
+
+https://delightlylinux.wordpress.com/2015/11/13/colored-text-with-toilet/
+
+http://caca.zoy.org/wiki/toilet
+
+https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/
